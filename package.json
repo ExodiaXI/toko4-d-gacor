@@ -1,13 +1,13 @@
 {
   "name": "toko4-d-gacor",
-  "theme": "syntax",
+  "theme": "Toko4D",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "Situs Betting Online Resmi Terpercaya Toko4D",
   "keywords": [
-    "syntax",
-    "theme"
+    "Toko4D",
+    "judi Online"
   ],
-  "repository": "https://github.com/atom/toko4-d-gacor",
+  "repository": "https://github.com/ExodiaXI/toko4-d-gacor",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
